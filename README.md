@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pascal Laurent
-- 👀 I’m interested in blockchain development, and cloud technologies
+- 👀 I’m interested in DevOps, blockchain development, and cloud technologies
 - 💞️ I’m looking to collaborate on projects related to my interest as described previously
 - :pray:I am always looking to offer my service to non-profit organizations. It's personal. It's my way of giving back. 
 - :snake: My preferred programming languages are Python, Go, Javascript, and solidity.
