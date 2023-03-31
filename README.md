@@ -9,3 +9,6 @@
 plezidevops/plezidevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**Learning Solidity using Cryptozombies:**
+1. [Crypto Zombie Lesson 1](https://share.cryptozombies.io/en/lesson/1/share/Pascal?id=Y3p8MjE1MTA2)
