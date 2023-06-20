@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pascal Laurent
-- 👀 I’m a fullstack blockchain developer 
+- 👀 I’m a devops engineer with a focus on blockchain technologies 
 - 💞️ I’m looking to collaborate on projects related to my interest as described previously
 - :pray:I am always looking to offer my service to non-profit organizations. It's personal. It's my way of giving back. 
 - :snake: My preferred programming languages are Python, Go, Javascript, and solidity.
